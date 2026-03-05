@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Gods' Play",
+  "base_artist": "Kento Nakajima",
+  "createdAt": "2026-03-05T06:07:05.658226Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gods' Play (feat.渡辺直美)",
+      "artist": "中島健人",
+      "has_synced": false,
+      "path": "select/pl_01_Gods'_Play_(feat.渡辺直美)_中島健人.txt"
+    }
+  ]
+}
